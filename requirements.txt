@@ -1,2 +1,2 @@
 Flask
-sciket-learn
+scikit-learn 
